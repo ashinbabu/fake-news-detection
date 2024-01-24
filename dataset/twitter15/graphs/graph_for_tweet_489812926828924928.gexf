@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="489812926828924928" label="489812926828924928" />
+      <node id="834672494" label="834672494" />
+      <node id="2180959435" label="2180959435" />
+      <node id="138901623" label="138901623" />
+      <node id="29227535" label="29227535" />
+      <node id="14577821" label="14577821" />
+      <node id="1113983916" label="1113983916" />
+      <node id="24038805" label="24038805" />
+      <node id="2423642896" label="2423642896" />
+      <node id="27715353" label="27715353" />
+      <node id="759251" label="759251" />
+      <node id="106788885" label="106788885" />
+      <node id="1375526088" label="1375526088" />
+      <node id="37953510" label="37953510" />
+      <node id="855556087" label="855556087" />
+      <node id="26514883" label="26514883" />
+      <node id="163992822" label="163992822" />
+      <node id="517255949" label="517255949" />
+      <node id="2479159384" label="2479159384" />
+      <node id="180317088" label="180317088" />
+      <node id="1491535328" label="1491535328" />
+      <node id="25274270" label="25274270" />
+      <node id="22435220" label="22435220" />
+      <node id="1958816220" label="1958816220" />
+      <node id="20478618" label="20478618" />
+      <node id="849731322" label="849731322" />
+      <node id="228134082" label="228134082" />
+      <node id="1325000900" label="1325000900" />
+      <node id="29525542" label="29525542" />
+      <node id="2344926979" label="2344926979" />
+      <node id="148908056" label="148908056" />
+      <node id="22392036" label="22392036" />
+      <node id="65586007" label="65586007" />
+    </nodes>
+    <edges>
+      <edge source="489812926828924928" target="834672494" id="0" weight="0.046620046620046623" />
+      <edge source="489812926828924928" target="2180959435" id="1" weight="0.006690305746972637" />
+      <edge source="489812926828924928" target="138901623" id="2" weight="0.04784688995215311" />
+      <edge source="489812926828924928" target="29227535" id="3" weight="0.011233430689732645" />
+      <edge source="489812926828924928" target="14577821" id="4" weight="0.03766478342749529" />
+      <edge source="489812926828924928" target="1113983916" id="5" weight="0.026130128037627383" />
+      <edge source="489812926828924928" target="24038805" id="6" weight="0.22831050228310504" />
+      <edge source="489812926828924928" target="2423642896" id="7" weight="0.13458950201884254" />
+      <edge source="489812926828924928" target="27715353" id="8" weight="0.28328611898017" />
+      <edge source="489812926828924928" target="759251" id="9" weight="1.0" />
+      <edge source="489812926828924928" target="106788885" id="10" weight="0.011445576284765937" />
+      <edge source="489812926828924928" target="1375526088" id="11" weight="0.33222591362126247" />
+      <edge source="489812926828924928" target="37953510" id="12" weight="0.11376564277588169" />
+      <edge source="489812926828924928" target="855556087" id="13" weight="0.02978850163836759" />
+      <edge source="489812926828924928" target="26514883" id="14" weight="0.5405405405405405" />
+      <edge source="489812926828924928" target="163992822" id="15" weight="0.027137042062415195" />
+      <edge source="489812926828924928" target="517255949" id="16" weight="0.06119951040391677" />
+      <edge source="489812926828924928" target="2479159384" id="17" weight="0.030093289196509183" />
+      <edge source="489812926828924928" target="180317088" id="18" weight="0.09900990099009901" />
+      <edge source="489812926828924928" target="1491535328" id="19" weight="0.1152073732718894" />
+      <edge source="489812926828924928" target="25274270" id="20" weight="0.062073246430788334" />
+      <edge source="489812926828924928" target="22435220" id="21" weight="0.186219739292365" />
+      <edge source="489812926828924928" target="1958816220" id="22" weight="0.029299736302373276" />
+      <edge source="489812926828924928" target="20478618" id="23" weight="0.08130081300813008" />
+      <edge source="489812926828924928" target="849731322" id="24" weight="0.09319664492078285" />
+      <edge source="489812926828924928" target="228134082" id="25" weight="0.003561887800534283" />
+      <edge source="489812926828924928" target="1325000900" id="26" weight="0.18450184501845018" />
+      <edge source="489812926828924928" target="29525542" id="27" weight="0.07112375533428164" />
+      <edge source="489812926828924928" target="2344926979" id="28" weight="0.053475935828877004" />
+      <edge source="489812926828924928" target="148908056" id="29" weight="0.11600928074245938" />
+      <edge source="489812926828924928" target="22392036" id="30" weight="0.02978850163836759" />
+      <edge source="489812926828924928" target="65586007" id="31" weight="0.15479876160990713" />
+    </edges>
+  </graph>
+</gexf>

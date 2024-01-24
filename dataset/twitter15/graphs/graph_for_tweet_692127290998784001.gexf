@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="692127290998784001" label="692127290998784001" />
+      <node id="260015402" label="260015402" />
+      <node id="55344841" label="55344841" />
+      <node id="258761425" label="258761425" />
+      <node id="2926121220" label="2926121220" />
+      <node id="2661682980" label="2661682980" />
+      <node id="74498666" label="74498666" />
+      <node id="486259597" label="486259597" />
+      <node id="299983531" label="299983531" />
+      <node id="3960646395" label="3960646395" />
+      <node id="2821431515" label="2821431515" />
+      <node id="856510033" label="856510033" />
+      <node id="14075928" label="14075928" />
+    </nodes>
+    <edges>
+      <edge source="692127290998784001" target="260015402" id="0" weight="0.01168633867009466" />
+      <edge source="692127290998784001" target="55344841" id="1" weight="0.0045020709526382135" />
+      <edge source="692127290998784001" target="258761425" id="2" weight="0.001597112420743296" />
+      <edge source="692127290998784001" target="2926121220" id="3" weight="0.005446029844243546" />
+      <edge source="692127290998784001" target="2661682980" id="4" weight="0.2150537634408602" />
+      <edge source="692127290998784001" target="74498666" id="5" weight="0.07412898443291327" />
+      <edge source="692127290998784001" target="486259597" id="6" weight="0.003384323812102342" />
+      <edge source="692127290998784001" target="299983531" id="7" weight="0.4166666666666667" />
+      <edge source="692127290998784001" target="3960646395" id="8" weight="0.0068096697310180455" />
+      <edge source="692127290998784001" target="2821431515" id="9" weight="0.2824858757062147" />
+      <edge source="692127290998784001" target="856510033" id="10" weight="0.11198208286674133" />
+      <edge source="692127290998784001" target="14075928" id="11" weight="1.0" />
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="525301290218553344" label="525301290218553344" />
+      <node id="26067145" label="26067145" />
+      <node id="855556087" label="855556087" />
+      <node id="84671872" label="84671872" />
+      <node id="965298974" label="965298974" />
+      <node id="526632149" label="526632149" />
+      <node id="17907878" label="17907878" />
+      <node id="292777349" label="292777349" />
+      <node id="41677388" label="41677388" />
+      <node id="49690284" label="49690284" />
+    </nodes>
+    <edges>
+      <edge source="525301290218553344" target="26067145" id="0" weight="0.01571832756994656" />
+      <edge source="525301290218553344" target="855556087" id="1" weight="0.021222410865874366" />
+      <edge source="525301290218553344" target="84671872" id="2" weight="0.0051237382794486865" />
+      <edge source="525301290218553344" target="965298974" id="3" weight="0.4694835680751174" />
+      <edge source="525301290218553344" target="526632149" id="4" weight="0.00015705169984907332" />
+      <edge source="525301290218553344" target="17907878" id="5" weight="0.00015704627368454114" />
+      <edge source="525301290218553344" target="292777349" id="6" weight="1.0" />
+      <edge source="525301290218553344" target="41677388" id="7" weight="0.11325028312570781" />
+      <edge source="525301290218553344" target="49690284" id="8" weight="0.026075619295958277" />
+    </edges>
+  </graph>
+</gexf>

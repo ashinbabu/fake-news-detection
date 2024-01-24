@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="767355611277168642" label="767355611277168642" />
+      <node id="2543549240" label="2543549240" />
+      <node id="41434212" label="41434212" />
+      <node id="473472787" label="473472787" />
+      <node id="4739095434" label="4739095434" />
+      <node id="2396808800" label="2396808800" />
+      <node id="3139320606" label="3139320606" />
+      <node id="352935643" label="352935643" />
+      <node id="4686642444" label="4686642444" />
+      <node id="3308407241" label="3308407241" />
+      <node id="748845181" label="748845181" />
+      <node id="1376000150" label="1376000150" />
+      <node id="29227535" label="29227535" />
+      <node id="714926235" label="714926235" />
+      <node id="783944028" label="783944028" />
+      <node id="2557521" label="2557521" />
+      <node id="396196960" label="396196960" />
+      <node id="426903572" label="426903572" />
+      <node id="1543041314" label="1543041314" />
+      <node id="1206091106" label="1206091106" />
+      <node id="396010377" label="396010377" />
+      <node id="1597047817" label="1597047817" />
+      <node id="170196419" label="170196419" />
+      <node id="2463832170" label="2463832170" />
+      <node id="210714216" label="210714216" />
+    </nodes>
+    <edges>
+      <edge source="767355611277168642" target="2543549240" id="0" weight="0.00794407372100413" />
+      <edge source="767355611277168642" target="41434212" id="1" weight="0.00747328301322771" />
+      <edge source="767355611277168642" target="473472787" id="2" weight="0.00470787627701144" />
+      <edge source="767355611277168642" target="4739095434" id="3" weight="0.1589825119236884" />
+      <edge source="767355611277168642" target="2396808800" id="4" weight="0.26595744680851063" />
+      <edge source="767355611277168642" target="3139320606" id="5" weight="0.06024096385542168" />
+      <edge source="767355611277168642" target="352935643" id="6" weight="0.0007976580758891893" />
+      <edge source="767355611277168642" target="4686642444" id="7" weight="0.0017080877957126996" />
+      <edge source="767355611277168642" target="3308407241" id="8" weight="0.1620745542949757" />
+      <edge source="767355611277168642" target="748845181" id="9" weight="0.009072763563781528" />
+      <edge source="767355611277168642" target="1376000150" id="10" weight="0.008803591865481117" />
+      <edge source="767355611277168642" target="29227535" id="11" weight="0.0361794500723589" />
+      <edge source="767355611277168642" target="714926235" id="12" weight="0.007639419404125286" />
+      <edge source="767355611277168642" target="783944028" id="13" weight="0.0029305746856958647" />
+      <edge source="767355611277168642" target="2557521" id="14" weight="1.0" />
+      <edge source="767355611277168642" target="396196960" id="15" weight="0.003022791850553171" />
+      <edge source="767355611277168642" target="426903572" id="16" weight="0.012865045670912132" />
+      <edge source="767355611277168642" target="1543041314" id="17" weight="0.04510599909788002" />
+      <edge source="767355611277168642" target="1206091106" id="18" weight="0.016493485073396007" />
+      <edge source="767355611277168642" target="396010377" id="19" weight="0.007637668983426258" />
+      <edge source="767355611277168642" target="1597047817" id="20" weight="0.005215123859191656" />
+      <edge source="767355611277168642" target="170196419" id="21" weight="0.01007455168245013" />
+      <edge source="767355611277168642" target="2463832170" id="22" weight="0.0023532180256500765" />
+      <edge source="767355611277168642" target="210714216" id="23" weight="0.0020106564793405048" />
+    </edges>
+  </graph>
+</gexf>

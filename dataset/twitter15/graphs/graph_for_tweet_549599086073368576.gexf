@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-01-24">
+    <creator>NetworkX 3.2.1</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="549599086073368576" label="549599086073368576" />
+      <node id="2867664005" label="2867664005" />
+      <node id="44317593" label="44317593" />
+      <node id="2156561740" label="2156561740" />
+      <node id="2467791" label="2467791" />
+    </nodes>
+    <edges>
+      <edge source="549599086073368576" target="2867664005" id="0" weight="0.001936745879573141" />
+      <edge source="549599086073368576" target="44317593" id="1" weight="1.0" />
+      <edge source="549599086073368576" target="2156561740" id="2" weight="0.009365049634763064" />
+      <edge source="549599086073368576" target="2467791" id="3" weight="0.02262443438914027" />
+    </edges>
+  </graph>
+</gexf>
