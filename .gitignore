@@ -4,3 +4,4 @@ myenv
 README.md
 run.py
 model
+__pycache__
